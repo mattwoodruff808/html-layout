@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+.header {
+    height: 10vh;
+    width: 100%;
+    background-color: #d8d8d8;
+    padding: 1vh;
+}
+
+.little-box {
+    height: 8vh;
+    width: 8vh;
+    background-color: #4a90e2;
+    margin: auto 0.5%;
+}
+
+main {
+    height: 30vh;
+    width: 100%;
+    padding: 5vh;
+    font-size: 2em;
+}
+
+.band-format {
+    height: 16vh;
+    width: 100%;
+}
+
+#blue-band {
+    background-color: #4a90e2;
+}
+
+#green-band {
+    background-color: #50e3c2;
+}
+
+#gross-green-band {
+    background-color: #b8e986;
+}
+
+#yellow-band {
+    background-color: #f8e71c;
+}
