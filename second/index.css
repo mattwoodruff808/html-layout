@@ -1,0 +1,74 @@
+body {
+    background-color: white;
+}
+
+.first-container {
+    border: solid black 6px;
+    height: 25vh;
+    width: 95%;
+    margin-left: 2%;
+    margin-top: 2%;
+    box-sizing: border-box;
+}
+
+.first-box {
+    height: 15vh;
+    width: 3%;
+    background-color: purple;
+    display: inline-block;
+    margin-top: 4%;
+    margin-left: 1%;
+}
+
+.second-box {
+    height: 20vh;
+    width: 27%;
+    background-color: green;
+    display: inline-block;
+    margin-left: 2%;
+}
+
+.circle {
+    border-radius: 50%;
+    height: 20vh;
+    width: 12%;
+    background-color: lightblue;
+    display: inline-block;
+    margin-left: 3%; 
+}
+
+.second-container {
+    border: dotted black 6px;
+    height: 30vh;
+    width: 95%;
+    margin-left: 2%;
+    margin-top: 2%;
+    box-sizing: border-box;
+}
+
+.real-box {
+    height: 20vh;
+    width: 90%;
+    background-color: rgb(236, 236, 170);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: 10px 10px 7px;
+}
+
+.third-container {
+    margin: 0 auto;
+    margin-top: 2%;
+    border: 1px darkgray solid;
+    height: 30vh;
+    width: 30%;
+    padding: 10px;
+    box-shadow: 3px 3px 3px darkgray;
+}
+
+#hello-friends {
+    padding: 100px;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
